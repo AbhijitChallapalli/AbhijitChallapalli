@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijitchallapalli&label=Profile%20views&color=0e75b6&style=flat" alt="abhijitchallapalli" /> </p>
 
-- 🔭 I’m currently working on [Facial Recognition Project](https://github.com/AbhijitChallapalli/Capstone_Project)
+- 🔭 I’m currently working on Stable Diffusion
 
 - 🌱 I’m currently learning **Deep learning and Transformers**
 
